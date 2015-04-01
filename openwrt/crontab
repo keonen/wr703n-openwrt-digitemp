@@ -1,0 +1,2 @@
+*/5 * * * * /root/scripts/digitemp-script.sh
+1 0,4,8,12,16,20 * * * reboot
